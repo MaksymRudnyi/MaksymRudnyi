@@ -21,7 +21,11 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllist]
 
+<br/>
+<br/>
 
+<img align="left" width="47%" alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+<img align="left" width="47%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact"/>
 
 
 [reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
