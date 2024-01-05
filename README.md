@@ -22,11 +22,22 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllist]
 
 <br/>
+
+### Bizness
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
+- :email: rudik.programer@gmail.com
+
 <br/>
 
-<img align="left" width="47%" alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
-<img align="left" width="47%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact"/>
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+</div>
 
 
 [reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
 [graphqllist]: https://youtube.com/playlist?list=PLlYbsPJVZjByzzOLWl2n15n0uQ7m8loEh&si=0NXO3LQENlDOOqdK
+
+
