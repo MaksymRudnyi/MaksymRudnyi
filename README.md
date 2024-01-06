@@ -25,7 +25,7 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 
 ### Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
-- :email: rudik.programer@gmail.com
+- :email: maksym.rudnyi@gmail.com
 
 <br/>
 
