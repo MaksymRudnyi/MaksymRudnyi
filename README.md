@@ -36,6 +36,8 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
 </div>
 
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
+
 
 [reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
 [graphqllist]: https://youtube.com/playlist?list=PLlYbsPJVZjByzzOLWl2n15n0uQ7m8loEh&si=0NXO3LQENlDOOqdK
