@@ -36,6 +36,7 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
 </div>
 
+### Profile views counter 👁️‍🗨️
 [![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
 
 
